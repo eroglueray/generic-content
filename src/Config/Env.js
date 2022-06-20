@@ -1,0 +1,1 @@
+export const Local_API = 'http://localhost:1955';
